@@ -1,4 +1,5 @@
 # Run the ` touchbounce.py ` file to play game
+* just double click the file. don't need install any thing in your pc.
 ## Game Instructions : 
 <ol>
 <li>Press S or s to start game</li>
